@@ -23,4 +23,4 @@ Michelle Ziegler,	mvziegler22@email.arizona.edu <br>
 Taoran Ma, taoranma@email.arizona.edu <br>
 
 Client Details: CoHost / Startup like Airbnb offers rooms for US company.<br>
-<a href="http://www.ellerbuzz.com/2015/05/entrepreneurship-at-work/airbnb-of-business-trave l-tops-mcguire-competition/"> CoHost </a>
+<a href="https://www.ellerbuzz.com/2015/05/entrepreneurship-at-work/airbnb-of-business-travel-tops-mcguire-competition/"> CoHost </a>
