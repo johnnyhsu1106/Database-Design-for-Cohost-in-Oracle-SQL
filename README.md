@@ -4,7 +4,7 @@
 Please read the Final Report to start your journey. <br>
 All the details are in the Final report.
  <br><br>
-This is a database design for Startup CoHost. <br>
+This is a database design for Startup CoHost. <br><br>
 </strong>
 
 Those following files are contained in this repo: <br>
