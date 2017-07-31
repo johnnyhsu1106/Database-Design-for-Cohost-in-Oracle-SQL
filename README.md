@@ -16,11 +16,11 @@ Webpage Mockup: A mockup designed by using Balsamiq <br>
 
 This project is finished collaboratively by four MIS students in University of Arizona. <br> (listed alphabetically)  <br>
 
-Johnny Hsu,	johnnyhsu1106@gmail.com
-Justin LeBreck,	jlebreck@email.arizona.edu
-Joshua Ziegler,	joshuaz@email.arizona.edu
-Michelle Ziegler,	mvziegler22@email.arizona.edu
-Taoran Ma, taoranma@email.arizona.edu
+Johnny Hsu,	johnnyhsu1106@gmail.com <br>
+Justin LeBreck,	jlebreck@email.arizona.edu <br>
+Joshua Ziegler,	joshuaz@email.arizona.edu <br>
+Michelle Ziegler,	mvziegler22@email.arizona.edu <br>
+Taoran Ma, taoranma@email.arizona.edu <br>
 
 Client Details: CoHost / Startup like Airbnb offers rooms for US company.<br>
 <a href="http://www.ellerbuzz.com/2015/05/entrepreneurship-at-work/airbnb-of-business-trave l-tops-mcguire-competition/"> CoHost </a>
