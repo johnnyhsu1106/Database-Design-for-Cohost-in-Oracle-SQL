@@ -1,9 +1,11 @@
-This is a database design for Startup CoHost. <br>
+
 
 <strong>
 Please read the Final Report to start your journey. <br>
 All the details are in the Final report.
-</strong> <br><br>
+ <br><br>
+This is a database design for Startup CoHost. <br>
+</strong>
 
 Those following files are contained in this repo: <br>
 ER Model: The entity relation model for this database <br>
